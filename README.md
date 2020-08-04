@@ -1,16 +1,22 @@
-### Hi there 👋
+<img width="100%" src="https://images.unsplash.com/photo-1508643315917-6688bbbb4cb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
 
-<!--
-**BiaRomaniv/BiaRomaniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bianca Romaniv
 
-Here are some ideas to get you started:
+## Olá! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou uma Engenheira Eletricista :zap: que sempre foi apaixonada por programação. :computer:
+
+
+</br> :factory:  &nbsp; Atualmente trabalho com Automação Industrial
+ 
+ <br/> :purple_heart: :rocket: &nbsp; Estou estudando programação no Bootcamp Launchbase da Rocketseat e atualmente na segunda participação da Next Level Week.
+ 
+ <br/> :information_desk_person:  &nbsp; Sobre mim: Curto livros que me ensinam qualquer coisa, faço tudo ao som de uma bela trilha sonora (eclética), amo maratonar F.R.I.E.N.D.S
+e outras séries e amo fotografia.
+
+ <br/>&nbsp; Entre em contato comigo: 
+ 
+ </br>  :information_source: Linkedin: http://www.linkedin.com/in/biancaromaniv
+ </br>  :email: Email: biancaromaniv@gmail.com
+ </br>  :ledger: Medium: https://medium.com/@biancaromaniv
+ 
