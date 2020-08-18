@@ -7,7 +7,7 @@ Sou uma Engenheira Eletricista :zap: que sempre foi apaixonada por programação
 
 </br> :factory: Atualmente trabalho com Automação Industrial
  
- <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp Launchbase da Rocketseat e atualmente na segunda participação da Next Level Week.
+ <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp Launchbase da Rocketseat.
  
  </br> :raising_hand: Posso te ajudar no básico do CSS, por enquanto! :blush: 
  
