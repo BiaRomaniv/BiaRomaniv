@@ -11,8 +11,7 @@ Sou uma Engenheira Eletricista :zap: que sempre foi apaixonada por programação
  
  </br> :raising_hand: Posso te ajudar no básico do CSS, por enquanto! :blush: 
  
- <br/> :information_desk_person: Curto livros que me ensinam qualquer coisa, faço tudo ao som de uma bela trilha sonora (eclética), amo maratonar F.R.I.E.N.D.S
-e outras séries e amo fotografia.
+ <br/> :information_desk_person: Curto livros que me ensinam qualquer coisa, amo maratonar F.R.I.E.N.D.S e outras séries e amo fotografia.
 
  <br/> Entre em contato comigo: 
  
