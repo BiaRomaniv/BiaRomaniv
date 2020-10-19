@@ -9,7 +9,7 @@ Sou uma Engenheira Eletricista :zap: que sempre foi apaixonada por programação
  
  <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp Launchbase da Rocketseat.
  
- </br> :raising_hand: Posso te ajudar no básico do CSS, por enquanto! :blush: 
+ </br> :raising_hand: Posso te ajudar no básico, por enquanto! :blush: 
  
  <br/> :information_desk_person: Curto livros que me ensinam qualquer coisa, amo maratonar F.R.I.E.N.D.S e outras séries e amo fotografia.
 
