@@ -2,7 +2,7 @@
 
 
 
-Sou uma Engenheira Eletricista :zap: que sempre foi apaixonada por programação. :computer:
+Sou uma Engenheira :zap: que sempre foi apaixonada por programação. :computer:
 
 
 </br> :factory: Atualmente trabalho com Automação Industrial
@@ -10,8 +10,6 @@ Sou uma Engenheira Eletricista :zap: que sempre foi apaixonada por programação
  <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp Launchbase da Rocketseat.
  
  </br> :raising_hand: Posso te ajudar no básico, por enquanto! :blush: 
- 
- <br/> :information_desk_person: Curto livros que me ensinam qualquer coisa, amo maratonar F.R.I.E.N.D.S e outras séries e amo fotografia.
 
  <br/> Entre em contato comigo: 
  
