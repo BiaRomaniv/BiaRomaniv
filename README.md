@@ -9,7 +9,6 @@ Sou uma Engenheira :zap: que sempre foi apaixonada por programação. :computer:
  
  <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp Launchbase da Rocketseat.
  
- </br> :raising_hand: Posso te ajudar no básico, por enquanto! :blush: 
 
  <br/> Entre em contato comigo: 
  
