@@ -7,7 +7,7 @@ Sou uma Engenheira :zap: que sempre foi apaixonada por programação. :computer:
 
 </br> :factory: Atualmente trabalho com Automação Industrial
  
- <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp Launchbase da Rocketseat.
+ <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp Dev Front-End do Banco Inter pela Digital Inovation One.
  
 
  <br/> Entre em contato comigo: 
