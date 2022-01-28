@@ -2,10 +2,10 @@
 
 
 
-Sou uma Engenheira :zap: que sempre foi apaixonada por programação. :computer:
+Sou uma Engenheira :zap: apaixonada por programação. :computer:
 
 
-</br> :factory: Atualmente trabalho com Automação Industrial
+</br> :factory: Atualmente trabalho com Programação de CLP e estudando para me tornar Dev Front-End
  
  <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp Dev Front-End do Banco Inter pela Digital Inovation One.
  
