@@ -13,6 +13,5 @@ Sou uma Engenheira :zap: apaixonada por programação. :computer:
  <br/> Entre em contato comigo: 
  
  </br>  :information_source: Linkedin: http://www.linkedin.com/in/biancaromaniv
- </br>  :email: Email: biancaromaniv@gmail.com
  </br>  :ledger: Medium: https://medium.com/@biancaromaniv
  </br>  :information_source: https://www.behance.net/biaromaniv
