@@ -7,7 +7,7 @@ Sou uma Engenheira :zap: apaixonada por programação. :computer:
 
 </br> :factory: Atualmente trabalho com Programação de CLP e estudando para me tornar Dev Front-End
  
- <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp Dev Front-End do Banco Inter pela Digital Inovation One.
+ <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp da Rocketseat, pelos bootcamps da Digital Inovation One e fazendo meus projetos pessoais.
  
 
  <br/> Entre em contato comigo: 
