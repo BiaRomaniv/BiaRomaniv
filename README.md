@@ -6,7 +6,7 @@ Sou uma Engenheira :zap: apaixonada por programação. :computer:
 
 
  
- <br/> :purple_heart::rocket: Estou estudando programação no Bootcamp da Rocketseat, pelos bootcamps da Digital Inovation One e fazendo meus projetos pessoais.
+ <br/> :purple_heart::rocket: 
  
 
  <br/> Entre em contato comigo: 
